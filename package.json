@@ -1,0 +1,23 @@
+{
+  "name": "Secrets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amankhan25/Secrets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amankhan25/Secrets/issues"
+  },
+  "homepage": "https://github.com/amankhan25/Secrets#readme",
+  "dependencies": {
+    "mongoose-encryption": "^2.0.2"
+  }
+}
